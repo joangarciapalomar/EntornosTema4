@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Documentar {
+public class inicial {
 
     //El metodo main llama a los metodos pedirNumero(), generarVectorInicial(), generarVectorPrimos() e imprimirVector().
     public static void main(String[] args) {
